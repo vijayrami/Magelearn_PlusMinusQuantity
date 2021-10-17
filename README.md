@@ -1,5 +1,11 @@
 # Magelearn_PlusMinusQuantity
-Add quantity increment decrement button on product page and minicart in Magento2
+Add quantity increment decrement button on product page and minicart in Magento2.
+
+## Features
+
+#### 1. Add Custom JS to manage and validate qty increment decrement 
+
+#### 2. Create custom widget for minicart sidebar to manage quantity increment decrement.
 
 ## Screen Shots
 
